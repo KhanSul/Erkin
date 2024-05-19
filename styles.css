@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+#text {
+    position: absolute;
+    font-size: 10vw;
+    color: black;
+    white-space: nowrap;
+}
